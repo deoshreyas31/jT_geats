@@ -1,0 +1,320 @@
+/* Header */
+
+position: absolute;
+width: 1440px;
+height: 80px;
+left: 0px;
+top: 0px;
+
+/* Primary/Green */
+background: #1AC073;
+
+
+/* Frame 30 */
+
+position: absolute;
+width: 1164px;
+height: 24px;
+left: 146px;
+top: 26px;
+
+
+
+/* JTGeats */
+
+position: absolute;
+width: 89px;
+height: 20px;
+left: -14.5px;
+top: 2px;
+
+font-family: 'Squada One';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 20px;
+/* identical to box height, or 62% */
+letter-spacing: -0.012em;
+
+color: #FFFFFF;
+
+
+
+/* Frame 29 */
+
+position: absolute;
+width: 751px;
+height: 24px;
+left: 413px;
+top: 0px;
+
+
+
+/* Main menu top */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 40px;
+
+position: absolute;
+width: 399px;
+height: 20px;
+left: 0px;
+top: 2px;
+
+
+
+/* Home */
+
+width: 48px;
+height: 20px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height, or 111% */
+letter-spacing: -0.012em;
+
+/* White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* About */
+
+width: 48px;
+height: 20px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height, or 111% */
+letter-spacing: -0.012em;
+
+/* White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Menu */
+
+width: 45px;
+height: 20px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height, or 111% */
+letter-spacing: -0.012em;
+
+/* White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Blog */
+
+width: 36px;
+height: 20px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height, or 111% */
+letter-spacing: -0.012em;
+
+/* White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Contact */
+
+width: 62px;
+height: 20px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 20px;
+/* identical to box height, or 111% */
+letter-spacing: -0.012em;
+
+/* White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Seach and cart */
+
+position: absolute;
+width: 75px;
+height: 24px;
+left: 656px;
+top: -1px;
+
+
+
+/* Card */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 22px;
+height: 22px;
+left: 0px;
+top: 1px;
+
+border-radius: 5px;
+
+
+/* akar-icons:search */
+
+width: 22px;
+height: 22px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 9.09%;
+right: 4.55%;
+top: 9.09%;
+bottom: 4.55%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 9.09%;
+right: 4.55%;
+top: 9.09%;
+bottom: 4.55%;
+
+/* White */
+border: 2px solid #FFFFFF;
+
+
+/* Card */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 21px;
+height: 24px;
+left: 54px;
+top: 0px;
+
+border-radius: 5px;
+
+
+/* akar-icons:shopping-bag */
+
+width: 21px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group */
+
+position: absolute;
+left: 10.32%;
+right: 5.56%;
+top: 8.33%;
+bottom: 8.33%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.32%;
+right: 5.56%;
+top: 33.33%;
+bottom: 8.33%;
+
+/* White */
+border: 2px solid #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 33.33%;
+right: 28.57%;
+top: 8.33%;
+bottom: 54.17%;
+
+/* White */
+border: 2px solid #FFFFFF;
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 1138px;
+top: 1px;
+
+/* Secondary/Yello */
+background: #F3BA00;
